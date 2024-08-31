@@ -1,0 +1,1 @@
+print('buenos dias amigos hoy vamos a comenzar a programar en esta pagina de Gpod')
